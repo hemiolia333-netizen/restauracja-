@@ -1,2 +1,6 @@
-# restauracja-
-prognozy 
+
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
